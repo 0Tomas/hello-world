@@ -1,3 +1,0 @@
-# hello-world
-Just a tutorial repository...
-"A bit about yourself..."
